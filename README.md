@@ -20,10 +20,6 @@ La página de error 404 incluye un mensaje claro indicando que la página solici
 1. Clona este repositorio en tu máquina local.
 2. Abre el archivo `index.html` en tu navegador web.
 
-## Contribución
-
-Las contribuciones son bienvenidas. Si deseas mejorar esta página de error 404, por favor abre un problema o envía una solicitud de extracción.
-
 ## Autor
 
 - [KarlangaXZ](https://github.com/KarlangaXZ)
